@@ -1,0 +1,25 @@
+/* header banner styles */
+.header-banner1{
+    height: 100vh;
+    background-image: url("../images/banner.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.header-banner2{
+    height: 100vh;
+    background-image: url("../images/banner2.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.header-banner3{
+    height: 100vh;
+    background-image: url("../images/banner3.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.banner-info{
+    height: 100vh;
+}
